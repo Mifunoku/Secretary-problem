@@ -1,4 +1,4 @@
-# Secretary-problem
+# Secretary-problem-optimalization
 
 #ENGLISH VERSION
 
