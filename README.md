@@ -23,6 +23,10 @@ We assign one tester to each order. A tester with the ability ti detects an erro
 • Draw a histogram of the profits obtained on the basis of the adopted strategy of hiring employees and accepting orders and estimate the probability
 bankruptcy (i.e. obtaining negative profits).
 
+
+
+
+
 #POLISH VERSION (originally)
 
 
